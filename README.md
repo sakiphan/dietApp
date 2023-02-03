@@ -1,0 +1,2 @@
+# MyDiet
+ This application that I have coded with React-Native; Users can log in and register, They can search for the food they want among thousands of dishes and add them to their programs, They can see the meals they have added in the Meal List and access the total calorie values of these meals, It is a diet application where they can calculate their body mass index by entering their height and weight in the profile section.
